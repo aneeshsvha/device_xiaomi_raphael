@@ -182,6 +182,9 @@ ro.vendor.display.sensortype=2
 # DRM
 drm.service.enabled=true
 
+# Fastbootd
+ro.fastbootd.available=true
+
 # Fling Velocity
 ro.min.fling_velocity=70 
 ro.max.fling_velocity=21000
